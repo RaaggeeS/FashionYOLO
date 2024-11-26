@@ -2,3 +2,5 @@ streamlit
 matplotlib
 ultralytics
 pandas
+opencv-python
+libgl1

@@ -3,4 +3,4 @@ matplotlib
 ultralytics
 pandas
 opencv-python
-libgl1
+pillow

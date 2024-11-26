@@ -4,4 +4,3 @@ ultralytics
 pandas
 opencv-python
 pillow
-libgl1

@@ -12,16 +12,9 @@ FashionYOLO is a YOLO based classification based model, which is trained on a sm
 2. Execute with streamlit run app.py
 
 # 2. Dataset
-The YOLO classification model has been trained on a smaller version of the dataset called [Fashion Produt Images Dataset](https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset). I created a smaller version by taking 20 categories which consist of random images ([**CreateDataset**](https://github.com/RaaggeeS/FashionYOLO/blob/main/experiments/CreateDataset.ipynb)). It is consists of categories such as Backpacks, Belts, Briefs, Casual Shoes, Flip Flops, Formal Shoes, Handbags, Heels, Jeans, Kurtas, Perfume and Body Mist, Sandals, Shirts, Socks, Sports, Shoes, Sunglasses, Tops, Tshirts, Wallets and Watches.
+The YOLO classification model has been trained on a smaller version of the dataset called [DeepFashion Dataset](https://www.kaggle.com/datasets/khyeh0719/deepfashion). I created a smaller version by taking 5 categories which consist of random images ([**CreateDataset**](https://www.kaggle.com/code/raaggeesingh/traindata). It is consists of categories such as Blouses_Shirts, Cardigans, Denim, Jackets_Vests, Pants.
 
 # 3. Usage
 Used this dataset to train the YOLO model.
-The dataset was created using [**CreateDataset**](https://www.kaggle.com/code/raaggeesingh/createdataset) which can be executed on Kaggle.
-The YOLO has been trained on the smaller dataset using [**trainYOLO**](https://www.kaggle.com/code/raaggeesingh/trainyolo) which can be executed on Kaggle.
-
-# 4. Results
-* On testing with Val Dataset
-<img width="1212" alt="image" src="https://github.com/user-attachments/assets/5f53746f-e85a-413b-8bae-d9bb3edef07e">
-* On testing with Test Dataset
-<img width="1208" alt="image" src="https://github.com/user-attachments/assets/6094018c-bdf2-48ea-963a-22f0089c7008">
-
+The dataset was created using [**CreateDataset**](https://www.kaggle.com/code/raaggeesingh/traindata) which can be executed on Kaggle.
+The YOLO has been trained on the smaller dataset using [**trainYOLO**](https://www.kaggle.com/code/raaggeesingh/newyolo) which can be executed on Kaggle.

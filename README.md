@@ -5,7 +5,6 @@ FashionYOLO is a YOLO based classification based model, which is trained on a sm
 1. How to use this repo?
 2. Dataset
 3. Usage
-4. Results
 
 # 1. How to use this repo?
 1. Install requirements.txt
